@@ -13,7 +13,7 @@ The dataset used in this project can be found on Kaggle: [arXiv Papers Dataset](
 
 ## Key Components
 - **Curated List of Papers**: An annotated compilation of research papers, including titles, authors, summaries, and key findings.
-- **Jupyter Notebook Overview**: A detailed notebook (`Jupyter_Note.pdf`) presenting the collection with insights and annotations for each paper.
+- **Jupyter Notebook Overview**: A detailed notebook presenting the collection with insights and annotations for each paper.
 - **Research Focus Areas**: Emphasis on Retrieval Augmented Generation, LLMs, ChatGPT, and Transformers among other AI technologies
 
 ## Functionality
