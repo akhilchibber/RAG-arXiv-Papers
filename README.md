@@ -54,3 +54,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
+
+Medium Blogs: https://medium.com/@akhil.chibber
